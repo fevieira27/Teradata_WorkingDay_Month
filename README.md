@@ -1,2 +1,2 @@
 # Teradata_WorkingDay_Month
-Calculate working day of the month using Sys_Calendar.Calendar table on Teradata databases
+Calculate the working day of the month using Sys_Calendar.Calendar table on Teradata databases
