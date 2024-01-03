@@ -1,0 +1,4 @@
+# Trying to force GitHub to identify the SQL language
+* text=auto
+*.sql linguist-detectable=true
+*.sql linguist-language=sql
